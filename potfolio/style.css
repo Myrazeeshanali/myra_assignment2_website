@@ -1,0 +1,238 @@
+*{
+    margin:0;
+    padding:0;
+}
+header{
+    width: 1559px;
+    /* height: 30px; */
+    background-color: rgb(204, 130, 19);
+    padding: 12px;
+    
+    
+}
+ul{
+    color:rgb(244, 240, 240);
+}
+li{
+    display: inline;
+    
+   
+}
+.list_haeder{
+    text-align: end;
+    word-spacing: 20px;
+}
+main{
+    width: 100%;
+    height: 1800px;
+    background-color: rgb(235, 234, 211);
+}
+
+h1{
+color: rgb(196, 184, 16);
+    font-size: 40px;
+
+}
+h2{
+    color: rgb(16, 235, 71);
+    font-size: 28px;
+}
+.container{
+    width: 100%;
+    
+}
+.container image{
+    width: 100%;
+    background-repeat:no-repeat ;
+    
+}
+.heading {
+    
+position: absolute;
+top: 25%;
+right: 0%;
+transform: translate(-50%,-50%);
+}
+.stole{
+    text-align: center;
+    font-size: 40px;
+    background-color: aliceblue;
+    color: rgb(207, 154, 75);
+    padding: 0px;
+    margin: 0px;
+    width: 100%;
+    height: 48px;;
+}
+
+.books{
+    border-width: 10px;
+    border-style: inset groove ridge outset;
+    padding: 5px;
+    position: absolute;
+    right:64.5%;
+    border-color: chocolate;
+    text-align:center;
+    margin-top: 30px;
+}
+.images{
+    border-width: 10px;
+    border-style: inset groove ridge outset;
+    padding: 5px;
+    position: absolute;
+    right: 43% ;
+    border-color: chocolate;
+    text-align:center;
+    margin-top: 30px;
+}
+.image{
+    border-width: 10px;
+    border-style: inset groove ridge outset;
+    padding: 5px;
+    position: absolute;
+    right:21.5%;
+    border-color: chocolate;
+    text-align:center;
+    margin-top: 30px;
+}
+.imgg{
+    border-width: 10px;
+    border-style: inset groove ridge outset;
+    padding: 5px;
+    position:absolute;
+    right: 0%;
+    height: auto;
+    border-color: chocolate;
+    text-align:center;
+    margin-top: 30px;
+}
+
+.imaa{
+   
+    border-width: 10px;
+    border-style: inset groove ridge outset;
+    position: absolute;
+    padding: 5px;
+    border-color: chocolate;
+    text-align:center;
+    margin-top: 30px;
+}
+
+.imag{
+    border-width: 10px;
+    border-style: inset groove ridge outset;
+    padding: 5px;
+    margin-block: 450px;
+    position: absolute;
+    border-color: chocolate;
+    text-align:center;
+    
+}
+
+.img8{
+    border-width: 10px;
+    border-style: inset groove ridge outset;
+    padding: 5px;
+    position: absolute;
+    right:560px;
+    margin:450px;
+    border-color: chocolate;
+    text-align:center;
+    
+   
+}
+
+.img9{
+    border-width: 10px;
+    border-style: inset groove ridge outset;
+    padding: 5px;
+    position: absolute;
+    margin: 450px;
+    right: 222px;
+    border-color: chocolate;
+    text-align:center;
+    
+}
+
+.img10{
+    border-width: 10px;
+    border-style: inset groove ridge outset;
+    padding: 5px;
+    position: absolute;
+    margin: 450px;
+    left:570px;
+    border-color: chocolate;
+    text-align:center;
+    
+}
+
+.img11{
+    border-width: 10px;
+    border-style: inset groove ridge outset;
+    padding: 5px;
+    position: absolute;
+    margin: 450px;
+    left: 900px;
+    border-color: chocolate;
+    text-align:center;
+    
+}
+
+.hey{
+    width:100% ;
+    height: 350px;
+    background-color: black;
+    text-align: center;
+    color:white;
+    text-align:center;
+    
+}
+.fa{
+    
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration:none;
+    color: rgb(169, 181, 219);
+    background: #080808;
+    border-radius: 50%;
+    
+    
+}
+.fa:hover{
+    background-color:whitesmoke;
+    transition: 0.5s;
+    opacity: 0.7;
+}
+.com{
+    position: absolute;
+    right: 43% ;
+    color: whitesmoke;
+}
+    
+
+.help{
+    position: absolute;
+    right: 75% ;
+    color: rgb(228, 206, 206);
+}
+.boo{
+    position: absolute;
+    right: 17% ;
+    color: rgb(228, 206, 206);
+}
+
+h3{
+    
+    color: antiquewhite;
+    font-size: 22px;;
+}  
+p{
+    
+    flex-wrap: wrap;
+}
+
+
+
+
+
